@@ -1,0 +1,32 @@
+.header {
+    padding: 40px;
+}
+
+kbd{
+    border-radius: 2px;
+    padding: 2px;
+    border: 1px solid black;
+}
+
+#css-img{
+    height: 250px;
+    width: 200px;
+}
+
+#html-img{
+    height: 250px;
+    width: 250px;
+}
+
+html{
+    text-align: center;
+}
+
+css{
+    text-align: center;
+}
+
+    lista{
+        text-align: left;
+    }
+    
